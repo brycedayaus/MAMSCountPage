@@ -1,7 +1,7 @@
 function UnlinkedCountSheet() {
     return (
         <div className="standardPageDisplay">
-            <img id="mamslogo" src="MamsRedeemTeamCropped.jpg" alt="MAMS Redeem Team Logo"></img>
+            <img id="mamslogo" src="public/MamsRedeemTeamCropped.jpg" alt="MAMS Redeem Team Logo"></img>
             <CountTable></CountTable>
         </div>
     )
